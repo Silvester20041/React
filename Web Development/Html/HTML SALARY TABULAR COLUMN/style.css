@@ -1,0 +1,11 @@
+caption{
+    color:blue
+ }
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+    border-color: red;
+ }
+table{
+    background-color: aqua;
+}

@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+}
+#backgroundimage{
+margin-top: 50px;
+margin-left: -320px;
+}
+div{
+    transform: translate(180px,-800px);
+    background-color: rgb(255, 0, 51);
+    width:800px;
+    height:700px;
+}
+body{
+    background-color: aqua;
+}
+#TitleName{
+    font-size: xx-large;
+
+}
+#text1{
+    height: 300px;
+}
+#text2{
+    height: 300px;
+
+}
